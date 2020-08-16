@@ -1,4 +1,4 @@
 # define sub method
-def sub(a, b):
+def subtract(a, b):
     return a - b
 
